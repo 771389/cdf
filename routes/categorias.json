@@ -95,7 +95,13 @@
                               "category_id": "17",
                                  "category_name": "xciptv.8888play.one",
                                  "parent_id": 0
-                               }
+                               },
+
+                               {
+                                "category_id": "18",
+                                   "category_name": "vodteste.com",
+                                   "parent_id": 0
+                                 }
         
       
     
