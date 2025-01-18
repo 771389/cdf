@@ -107,7 +107,14 @@
                                   "category_id": "19",
                                      "category_name": "fofs.site",
                                      "parent_id": 0
-                                   }
+                                   },
+
+                                   {
+                                    "category_id": "20",
+                                       "category_name": "tv.dimaiptv.com",
+                                       "parent_id": 0
+                                     }
+          
         
       
     
