@@ -113,10 +113,16 @@
                                     "category_id": "20",
                                        "category_name": "tv.dimaiptv.com",
                                        "parent_id": 0
-                                     }
+                                     },
+
+                                     {
+                                      "category_id": "21",
+                                         "category_name": "appsmart.click",
+                                         "parent_id": 0
+                                       }
           
         
-      
+                                     
     
 ]
 
