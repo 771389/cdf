@@ -65,6 +65,11 @@ app.get('/routes/soma-total', (req, res) => {
     }
   });
 
+  app.get('/routes/allmovies', (req, res) => {
+    const allMoviesData = [ /* Dados de filmes aqui */ ];
+    res.json(allMoviesData);
+});
+
   // Retornar o total de servidores contados
   res.json({
     somaTotal
