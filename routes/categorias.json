@@ -119,7 +119,12 @@
                                       "category_id": "21",
                                          "category_name": "appsmart.click",
                                          "parent_id": 0
-                                       }
+                                       },
+                                       {
+                                        "category_id": "21",
+                                           "category_name": "allmovies",
+                                           "parent_id": 0
+                                         }
           
         
                                      
