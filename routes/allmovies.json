@@ -5583,8 +5583,6 @@
     "movie_link": "https://playerflixapi.com/filme/tt28223926"
 },
 {
-    "poster": "https://image.tmdb.org/t/p/w185/5eeTiSa35Z0LGItpDCvABGPY3zF.jpg",
-    "title": {
     "poster": "https://image.tmdb.org/t/p/w185/fHtNXldW4NNWXnPQF2uKhWuiynX.jpg",
     "title": "Assistir Negociador de Crise Online",
     "date_created": "May. 24, 2024",
@@ -6366,8 +6364,6 @@
     "movie_link": "https://playerflixapi.com/filme/tt12404266"
 },
 {
-    "poster": "https://image.tmdb.org/t/p/w185/yV7YWPKH2OWboyAlkZ46gp75Y4j.jpg",
-    "title": {
     "poster": "https://image.tmdb.org/t/p/w185/qA9irK7Hog7VAn4CfjcYjtCzb7M.jpg",
     "title": "Assistir A Guerreira Chinesa Online",
     "date_created": "Jul. 04, 2022",
@@ -6377,17 +6373,6 @@
     "movie_name": "A Guerreira Chinesa",
     "genres": "A��o, Drama, Guerra",
     "movie_link": "https://playerflixapi.com/filme/tt21141802"
-},
-{
-    "poster": "https://image.tmdb.org/t/p/w185/fMLoToKANoJdDOLKrqoDLsCvcNY.jpg",
-    "title": "Assistir Os Novatos Online",
-    "date_created": "Aug. 22, 2024",
-    "country": "USA",
-    "duration": "92 Min.",
-    "content_rating": "Classifica��o n�o encontrada",
-    "movie_name": "Os Novatos",
-    "genres": "Com�dia",
-    "movie_link": "https://playerflixapi.com/filme/tt21284218"
 },
 {
     "poster": "https://image.tmdb.org/t/p/w185/yFQvabvW8dcnnRnTU5vFOwcmEXP.jpg",
