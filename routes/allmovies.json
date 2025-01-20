@@ -11,8 +11,8 @@
     "movie_link": "https://playerflixapi.com/filme/tt29491177"
 },
 {
-    "poster": "https://image.tmdb.org/t/p/w185/7MnUr9Rw7AKex5Gl70CKUy5y9lC.jpg",
-    "title": {
+
+
     "poster": "https://image.tmdb.org/t/p/w185/gCKeNpY8yO9sjke2n30NDefk9Jv.jpg",
     "title": "Assistir Aposentados e Curiosos Online",
     "date_created": "May. 02, 2023",
@@ -21,20 +21,11 @@
     "content_rating": "Classifica��o n�o encontrada",
     "movie_name": "Aposentados e Curiosos",
     "genres": "Com�dia, Crime, Fam�lia",
-    "movie_link": "https://playerflixapi.com/filme/tt12949730"
-},
-{
-    "poster": "https://image.tmdb.org/t/p/w185/4SwGS0szWMvHFhAjcyzrb0m2QvO.jpg",
-    "title": "Assistir Segredos Online",
-    "date_created": "Oct. 24, 2024",
-    "country": "Brazil",
-    "duration": "127 Min.",
-    "content_rating": "Not Rated",
-    "movie_name": "Segredos",
-    "genres": "Drama, Thriller",
-    "movie_link": "https://playerflixapi.com/filme/tt15294380"
-},
-{
+    "movie_link": "https://playerflixapi.com/filme/tt12949"
+
+    },
+    {
+ 
     "poster": "https://image.tmdb.org/t/p/w185/7aRfX7ukHp1il9kJQ1NTLokPt8Y.jpg",
     "title": "Assistir O Som da F� Online",
     "date_created": "Mar. 10, 2023",
@@ -9130,7 +9121,7 @@
     "genres": "Com�dia, Drama",
     "movie_link": "https://playerflixapi.com/filme/tt14586118"
 },
-{
+      {
     "poster": "https://image.tmdb.org/t/p/w185/cQLJT6hTXio0md94oBsSWADOECf.jpg",
     "title": "Assistir Alerta de Risco Online",
     "date_created": "Jun. 21, 2024",
