@@ -4853,10 +4853,7 @@
     "movie_name": "O Melhor Torcedor do Mundo",
     "genres": "Com�dia, Drama",
     "movie_link": "https://playerflixapi.com/filme/tt15740596"
-},
-{
-    "poster": "https://image.tmdb.org/t/p/w185/2EakDxV1m1TvTuhthGeROII4nQL.jpg",
-    "title": {
+},{
     "poster": "https://image.tmdb.org/t/p/w185/kzqPXIQ9WMbPSB3Oj7WS6mcU42J.jpg",
     "title": "Assistir Demi Lovato Apresenta: Estrela Mirim Online",
     "date_created": "Sep. 17, 2024",
@@ -5582,7 +5579,7 @@
     "genres": "Drama, Thriller",
     "movie_link": "https://playerflixapi.com/filme/tt28223926"
 },
-{
+  {
     "poster": "https://image.tmdb.org/t/p/w185/fHtNXldW4NNWXnPQF2uKhWuiynX.jpg",
     "title": "Assistir Negociador de Crise Online",
     "date_created": "May. 24, 2024",
@@ -6358,8 +6355,8 @@
     "date_created": "Dec. 07, 2023",
     "country": "United Kingdom",
     "duration": "100 Min.",
-    "content_rating": "Classifica��o n�o encontrada",
-    "movie_name": "O �ltimo Soldado",
+    "content_rating": "Classificação nao encontrada",
+    "movie_name": "O ultimo soldado",
     "genres": "Drama, Guerra, Hist�ria",
     "movie_link": "https://playerflixapi.com/filme/tt12404266"
 },
@@ -6371,23 +6368,23 @@
     "duration": "80 Min.",
     "content_rating": "Not Rated",
     "movie_name": "A Guerreira Chinesa",
-    "genres": "A��o, Drama, Guerra",
+    "genres": "Ação, drama, guerra",
     "movie_link": "https://playerflixapi.com/filme/tt21141802"
 },
 {
     "poster": "https://image.tmdb.org/t/p/w185/yFQvabvW8dcnnRnTU5vFOwcmEXP.jpg",
-    "title": "Assistir N�o Volte Para Casa! Online",
+    "title": "Assistir Não volte para case",
     "date_created": "Sep. 05, 2020",
     "country": "Canada",
     "duration": "90 Min.",
     "content_rating": "Not Rated",
-    "movie_name": "N�o Volte Para Casa!",
-    "genres": "Fic��o cient�fica, Terror",
+    "movie_name": "Não volte para casa",
+    "genres": "Ficção cientifica",
     "movie_link": "https://playerflixapi.com/filme/tt8429394"
 },
 {
     "poster": "https://image.tmdb.org/t/p/w185/8aRl9fIIjCiOc7dREwcXSEmKbQS.jpg",
-    "title": "Assistir Batalha A�rea Online",
+    "title": "Assistir Batalha Aérea",
     "date_created": "Dec. 01, 2023",
     "country": "United Kingdom",
     "duration": "80 Min.",
@@ -7321,8 +7318,7 @@
     "movie_link": "https://playerflixapi.com/filme/tt30886984"
 },
 {
-    "poster": "https://image.tmdb.org/t/p/w185/ywUtbLJngSqykpxiIHIqJNA06EX.jpg",
-    "title": {
+ 
     "poster": "https://image.tmdb.org/t/p/w185/epxMmvLaQmInLeRNOIMfRaJrhSZ.jpg",
     "title": "Assistir Menudas piezas Online",
     "date_created": "Apr. 12, 2024",
@@ -9093,10 +9089,7 @@
     "genres": "Com�dia, Terror",
     "movie_link": "https://playerflixapi.com/filme/tt15172662"
 },
-{
-    "poster": "https://image.tmdb.org/t/p/w185/3l04H9ljNegDGG9gnKDhLExJvpz.jpg",
-    "title": {
-    "poster": "https://image.tmdb.org/t/p/w185/4PMWCeXmEYjjHgoCFwplu0Ji7v3.jpg",
+{ "poster": "https://image.tmdb.org/t/p/w185/4PMWCeXmEYjjHgoCFwplu0Ji7v3.jpg",
     "title": "Assistir Conduzindo Madeleine Online",
     "date_created": "Sep. 21, 2022",
     "country": "BE",
@@ -9106,8 +9099,8 @@
     "genres": "Com�dia, Drama",
     "movie_link": "https://playerflixapi.com/filme/tt14586118"
 },
-      {
-    "poster": "https://image.tmdb.org/t/p/w185/cQLJT6hTXio0md94oBsSWADOECf.jpg",
+ {
+     "poster": "https://image.tmdb.org/t/p/w185/cQLJT6hTXio0md94oBsSWADOECf.jpg",
     "title": "Assistir Alerta de Risco Online",
     "date_created": "Jun. 21, 2024",
     "country": "USA",
@@ -30698,21 +30691,7 @@
     "movie_name": "The Nameless Days",
     "genres": "G�neros n�o encontrados",
     "movie_link": "https://playerflixapi.com/filme/tt11010074"
-},
-   {
-    "poster": "https://image.tmdb.org/t/p/w185/5CJ5Lgm29fVCOSz3Y2MDMZAuGod.jpg",
-    "title": {
-    "poster": "https://image.tmdb.org/t/p/w185/sUw081I0k5JWL6NpTaDRjMpLKwr.jpg",
-    "title": "Assistir You Are Not My Mother Online",
-    "date_created": "Mar. 04, 2022",
-    "country": "Ireland",
-    "duration": "93 Min.",
-    "content_rating": "Not Rated",
-    "movie_name": "You Are Not My Mother",
-    "genres": "G�neros n�o encontrados",
-    "movie_link": "https://playerflixapi.com/filme/tt10406596"
-    },
-     {
+}, {
     "poster": "https://image.tmdb.org/t/p/w185/uyZG3WYk3oUqbRYunL92N8MFzZT.jpg",
     "title": "Assistir Tout nous sourit Online",
     "date_created": "Oct. 20, 2021",
@@ -30723,6 +30702,7 @@
     "genres": "G�neros n�o encontrados",
     "movie_link": "https://playerflixapi.com/filme/tt10143308"
 },
+
 {
     "poster": "https://image.tmdb.org/t/p/w185/9X99HVkUsTB5ftfNvBUVeXl9Qba.jpg",
     "title": "Assistir Si on chantait Online",
