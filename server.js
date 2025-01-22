@@ -53,6 +53,48 @@ fs.readdirSync(routesPath).forEach(file => {
   }
 });
 
+// Rota para pesquisa de filmes
+app.get('/routes/pesquisa', (req, res) => {
+  const { movie_name, ano } = req.query; // Obtém os parâmetros de pesquisa 'movie_name' e 'ano'
+
+  // Verifica se o arquivo allmovies está presente
+  const allMovies = jsonRoutes['/routes/allmovies']; // Acessa o JSON de filmes carregado anteriormente
+
+  if (!allMovies) {
+    return res.status(404).json({ erro: 'Arquivo de filmes não encontrado.' });
+  }
+
+  let resultados = Object.values(allMovies);
+
+  // Filtra os filmes com base no parâmetro 'movie_name' (se fornecido)
+  if (movie_name) {
+    resultados = resultados.filter(filme => {
+      return filme.movie_name.toLowerCase().includes(movie_name.toLowerCase()); // Filtra pelos nomes dos filmes
+    });
+  }
+
+  // Filtra os filmes com base no parâmetro 'ano' (se fornecido)
+  if (ano) {
+    resultados = resultados.filter(filme => {
+      const filmeAno = new Date(filme.date_created).getFullYear(); // Extrai o ano da data de criação
+      return filmeAno === parseInt(ano, 10); // Compara o ano
+    });
+  }
+
+  // Verifica se encontrou filmes e exibe os resultados
+  if (resultados.length > 0) {
+    // Retorna os resultados com nome do filme e ano
+    const filmesFiltrados = resultados.map(filme => {
+      const filmeAno = new Date(filme.date_created).getFullYear(); // Extrai o ano
+      return { movie_name: filme.movie_name, ano: filmeAno }; // Retorna o nome e o ano
+    });
+
+    return res.json(filmesFiltrados);
+  } else {
+    return res.status(404).json({ erro: 'Nenhum filme encontrado.' });
+  }
+});
+
 // Rota para calcular a soma de todos os itens dentro da chave "servidores"
 app.get('/routes/soma-total', (req, res) => {
   let somaTotal = 0;
@@ -65,22 +107,15 @@ app.get('/routes/soma-total', (req, res) => {
     }
   });
 
-  app.get('/routes/allmovies', (req, res) => {
-    const allMoviesData = [ /* Dados de filmes aqui */ ];
-    res.json(allMoviesData);
-});
-
   // Retornar o total de servidores contados
   res.json({
     somaTotal
   });
 });
 
-
-
 // Middleware para tratar erros
 app.use((err, req, res, next) => {
-  if (err.name === 'UnauthorizedError') {
+  if (err.name === 'acesso negado, rala daqui') {
     return res.status(401).json({ erro: 'Token inválido ou não fornecido.' });
   }
   next(err);
